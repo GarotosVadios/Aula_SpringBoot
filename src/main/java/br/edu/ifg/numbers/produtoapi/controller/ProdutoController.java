@@ -1,7 +1,7 @@
-package com.example.produto.controller;
+package br.edu.ifg.numbers.produtoapi.controller.ProdutoController.java
 
-import com.example.produto.model.Produto;
-import com.example.produto.service.ProdutoService;
+import br.edu.ifg.numbers.produtoapi.model.Produto.java;
+import br.edu.ifg.numbers.produtoapi.service.ProdutoService.java;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

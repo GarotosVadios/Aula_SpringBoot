@@ -1,7 +1,7 @@
-package com.example.produto.service;
+package br.edu.ifg.numbers.produtoapi.service.ProdutoService.java;
 
-import com.example.produto.model.Produto;
-import com.example.produto.repository.ProdutoRepository;
+import br.edu.ifg.numbers.produtoapi.model.Produto.java;
+import br.edu.ifg.numbers.produtoapi.repository.ProdutoRepository.java;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

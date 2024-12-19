@@ -1,4 +1,4 @@
-package com.example.produto;
+package br.edu.ifg.numbers.produtoapi.SpringProdsApplication.java;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

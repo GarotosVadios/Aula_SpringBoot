@@ -1,4 +1,4 @@
-package com.example.produto.model;
+package br.edu.ifg.numbers.produtoapi.model.Produto.java;
 
 import jakarta.persistence.*;
 
