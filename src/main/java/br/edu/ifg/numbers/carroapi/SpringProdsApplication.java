@@ -1,11 +1,11 @@
-package br.edu.ifg.numbers.carroapi;
+package com.example.produto;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringCarsApplication {
+public class ProdutoApplication {
     public static void main(String[] args) {
-        SpringApplication.run(SpringCarsApplication.class, args);
+        SpringApplication.run(ProdutoApplication.class, args);
     }
 }

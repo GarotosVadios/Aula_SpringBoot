@@ -1,6 +1,7 @@
 -- V1__create_table_carros.sql
-CREATE TABLE carro (
-                       placa VARCHAR(10) PRIMARY KEY,
-                       nome VARCHAR(100) NOT NULL,
-                       marca VARCHAR(50) NOT NULL
+CREATE TABLE produtos (
+    id SERIAL PRIMARY KEY,
+    nome VARCHAR(255) NOT NULL,
+    descricao TEXT,
+    preco DECIMAL(10, 2) NOT NULL
 );
